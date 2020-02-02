@@ -1,0 +1,5 @@
+body {border: solid black 10px; background-color:black; color:red;}
+
+.timer {color: green; font-size: 20px; border: 5px solid green; margin: 5px;}
+
+.questions {font-size: 15px; color:red; border: solid white 5px; margin:10px; float:center;}
